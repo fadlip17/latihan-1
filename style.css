@@ -1,0 +1,47 @@
+.form{
+    width: 300px;
+    margin: 30pt auto;
+    background:#26d9c1;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 0px 1px 10px 3px;
+}
+.form h1{
+    text-align: center;
+    color:white;
+}
+#input{
+    width: 85%;
+    border:none;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius:2px;
+}
+
+#input[type='submit']{
+    background: #3fa99a;
+    color:#eee;
+    width: 50%;
+    margin-bottom: 10px;
+    height: 40px;
+    
+}
+
+.select{
+    width: 40%;
+    height:40px;
+    border:none;
+    padding: 5px;
+    border-radius:2px;  
+    
+}
+
+.hasil{
+    background: #eee;
+    height: 70px;
+    width: 92%;
+    text-align: center; 
+    padding-top: 15px;
+    margin-bottom: 3px;
+    font-size: 13pt;
+}
